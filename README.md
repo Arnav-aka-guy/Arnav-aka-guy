@@ -47,10 +47,10 @@
 
 <p align="center">
   <a href="https://github.com/Arnav-aka-guy/Repository-scanner-engine">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arnav-aka-guy&repo=Repository-scanner-engine&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arnav-aka-guy&repo=Repository-scanner-engine&theme=tokyonight&cache_seconds=86400" />
   </a>
   <a href="https://github.com/Arnav-aka-guy/Global-News-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arnav-aka-guy&repo=Global-News-&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arnav-aka-guy&repo=Global-News-&theme=tokyonight&cache_seconds=86400" />
   </a>
 </p>
 
@@ -63,12 +63,12 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arnav-aka-guy&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnav-aka-guy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Arnav-aka-guy&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnav-aka-guy&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arnav-aka-guy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Arnav-aka-guy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -76,7 +76,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Arnav-aka-guy&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Arnav-aka-guy&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10&margin-h=10" alt="trophies" />
 </p>
 
 ---
