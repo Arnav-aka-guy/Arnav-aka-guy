@@ -145,13 +145,13 @@ flowchart LR
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arnav-aka-guy&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="100%" />
+  <img src="./metrics/isocalendar.svg" alt="Contribution calendar" />
 </p>
 
-### 🏆 Trophies
+### 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Arnav-aka-guy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="trophies" />
+  <img src="./metrics/achievements.svg" alt="Achievements" />
 </p>
 
 ---
